@@ -1,0 +1,278 @@
+*{
+padding: 0px;
+	margin: 0px;
+
+	box-sizing: border-box;
+}
+
+body{
+
+  font-size: 12px;
+  font-family: 'Poppins', sans-serif;
+
+}
+.pannel{
+width: 13%;	align-items: center;
+	justify-content: center;
+	flex-direction: column-reverse;
+	padding: :12px -30px 2px 3px;
+}
+
+.head-line{
+  font-size: 36px;
+  margin: 1 rem;
+}
+
+
+.panne2{ 
+	align-items: center;
+	justify-content: center; 
+
+flex: 5;
+	align-items: center;
+	justify-content: center;
+	border-left: 1px solid #ebe0e0;
+border-right: 1px solid #ebe0e0;
+font-family: inherit;
+font-weight: inherit;
+}
+
+.pannel2{
+	flex: 2;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column-reverse;
+	padding: 43px 24px 149px 27px;
+}
+.form-card{
+padding: 7px 92px 0px 12px;	
+
+}
+
+
+
+.form-group{
+	padding: 0px;margin: 5px;
+}
+.form-devider{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.form-group label{
+
+           text-transform: uppercase;
+          	font-size: 20px;
+      	 	padding: 2px 5px 4px 7px;
+          margin: 1rem;
+          font-weight: inherit;
+
+        font-family: inherit;
+}
+.form-group input{
+	width: 100%;
+	height: 48px;
+	/*padding: 0px;*/
+	padding: 12px 10px;
+	text-transform: uppercase;
+	 background-color:#f5f7fb ;
+	border-radius: 3px;
+	border-color: #f5f7fb;
+border: 8px solid #f5f7fb;
+font-size: 18px;
+font-weight: revert;
+margin: 0.5rem;
+border-radius: 16px
+          font-weight: inherit;
+        font-family: inherit;
+
+
+}
+
+.form-group .form-devider{
+padding: 5px;
+display: flex;	
+
+}
+.form-devider-pnanel{
+
+display: flex;
+
+margin: 0px 0px 20px 6px;
+}
+
+
+
+  .header {
+  overflow: hidden;
+  background-color:#F5F7FE;
+  padding: 20px 10px;
+}
+.header a.logo {
+  font-size: 38px;
+  font-weight: bold;
+  color: black;
+  padding: 13px;
+}
+
+.header a {
+  float: left;
+  flex-direction: ;
+  color: black;
+  text-align: center;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 2px;
+}
+
+.header a:hover {
+  background-color: whitesmoke;
+  color: blue;
+}
+
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+.header-right {
+  display: flex;
+  justify-content: right;
+  
+
+}
+.header-right a {
+  padding: 0 20px;
+}
+
+
+
+
+
+.basic{
+      padding-top: 40px;
+	 font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+h{
+	font-size: 41px;
+font-style: normal;
+}
+.info{
+font-size: 23px	;
+}
+.info a{
+text-decoration: none;
+color: black;
+font-size: 25px;
+margin: 22px 27px 28px 35px;
+}
+
+.info-basic{
+ font-size: 25px;
+font-weight: lighter;
+color:#1d8cd4;
+}
+.info a:active {
+  background-color: dodgerblue;
+  color: white;
+}
+.info a:hover {
+  background-color: #F5F7FE;
+  border: 5px solid #F5F7FE;
+  color: dodgerblue;
+  border-radius: 3px;
+  text-align:left ;
+}
+
+.info li{
+  display: flex;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  border-radius: 21px;
+   display: flex;
+justify-content: space-evenly;
+margin-bottom: 1rem; 
+
+  }
+
+  .tab button {
+  background-color: inherit;
+    border: none;
+
+  cursor: pointer;
+  padding: 20px 16px 20px 14px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: white;
+  border: 1px solid none;
+  border-radius: 10px;
+display: flex;
+flex: 0.5;
+justify-content: center;
+}
+
+.search-bar{
+    width: 98%;
+max-width: 682px;
+background-color: #f1f1f1;
+display: flex;
+align-items: center;
+border-radius: 38px;
+padding: 0px 13px 0px 13px;
+height: 9vh;
+ backdrop-filter: blur(4px) saturate(180%);
+color: #F5F7FE;
+margin-bottom: 1rem;
+}
+
+.search-bar input[type=text] {
+ 
+background-color: transparent;
+flex: 1;
+border: 0;
+outline: none;
+padding: 24px 20px;
+font-size: 20px;
+color: #910FDA;
+}
+
+::placeholder{
+  color: black;
+}
+.search-bar button[type="submit"]{
+background-image: url("icon/search.png");
+background-size: 88%,74%;
+border: 0;
+height: 5vh;
+background-repeat: no-repeat;
+padding: 17px 3px 1px 23px;
+background-color: #f1f1f1;
+cursor: pointer;
+}
+
+.information{
+ border: 1px solid #efefff;
+height: 15vh;
+text-align: inherit;
+padding: 8px 8px 5px 5px;
+outline: 1px solid #efefff;
+font-size: 16px;
+margin-bottom: 1rem;
+
+
+}
+
+.information li{
+  list-style-type: none;
+}

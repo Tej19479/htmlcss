@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"i",
+				"information"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"inf",
+				"information"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"wh",
+				"ghostwhite"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"d",
+				"direction"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"fl",
+				"flex-flow"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"from-",
+				"form-devider"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"di",
+				"flex-direction"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ou",
+				"outline-offset"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"St",
+				"style"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fol",
+				"float"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"h",
+				"honeydew"
+			],
+			[
+				"vi",
+				"scroll-behavior"
+			],
+			[
+				"wi",
+				"widows"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"add",
+				"add_emp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/style3.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/style2.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/Borderss.html",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/Borderboxccs.html",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/border.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/from.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/CSE102-CheatSheetCSSLong.pdf",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/from.html",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/style1.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/style.css",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/1.jpg",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/index.html",
+		"/C/Users/Tej Pratap/Desktop/CssTrutioal/font.html",
+		"/C/Users/Tej Pratap/PycharmProjects/MyAwesomeCart/MyAwesomeCart/shop/templates/shop/checkout.html",
+		"/C/Users/Tej Pratap/PycharmProjects/MyAwesomeCart/package-lock.json"
+	],
+	"find":
+	{
+		"height": 39.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "border.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
